@@ -33,10 +33,10 @@ Training & Testing
     <a target="_blank" href="https://github.com/omkarmohanjoshi/Brain_Tumor_Classification/blob/master/brain_tumor_classification_training.ipynb"><img src="https://github.com/omkarmohanjoshi/Brain_Tumor_Classification/tree/master/images/GitHub-Mark-32px.png" />View Training file source on GitHub</a>
   </td>
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github.com/omkarmohanjoshi/Brain_Tumor_Classification/blob/master/brain_tumor_classification_prediction.ipynb"><img src="https://github.com/omkarmohanjoshi/Brain_Tumor_Classification/tree/master/images/colab_logo_32px.png" />Run Testing file in Google Colab</a>
+    <a target="_blank" href="https://colab.research.google.com/github.com/omkarmohanjoshi/Brain_Tumor_Classification/blob/master/brain_tumor_classification_prediction.ipynb"><img src="https://github.com/omkarmohanjoshi/Brain_Tumor_Classification/tree/master/images/colab_logo_32px.png" />Run Prediction file in Google Colab</a>
   </td>
   <td>
-    <a target="_blank" href="https://github.com/omkarmohanjoshi/Brain_Tumor_Classification/blob/master/brain_tumor_classification_prediction.ipynb"><img src="https://github.com/omkarmohanjoshi/Brain_Tumor_Classification/tree/master/images/GitHub-Mark-32px.png" />View Testing file source on GitHub</a>
+    <a target="_blank" href="https://github.com/omkarmohanjoshi/Brain_Tumor_Classification/blob/master/brain_tumor_classification_prediction.ipynb"><img src="https://github.com/omkarmohanjoshi/Brain_Tumor_Classification/tree/master/images/GitHub-Mark-32px.png" />View Prediction file source on GitHub</a>
   </td>
 </table>
 
